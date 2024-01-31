@@ -2,13 +2,9 @@
 
 In the rapidly evolving field of Natural Language Processing (NLP), large-scale language models like ChatGPT have demonstrated remarkable success in a multitude of tasks, ranging from text generation to complex reasoning. However, the bulk of this success is predominantly observed in English language applications. The performance and capabilities of these models in handling non-English languages, especially less-resourced ones such as Persian, remain significantly underexplored.
 
-The Persian language, with its unique linguistic features and rich cultural context, presents distinct challenges and opportunities for NLP applications. Currently, there is a notable gap in comprehensive research focused on evaluating the effectiveness of advanced language models like ChatGPT in processing and understanding Persian text. This lack of study is especially evident in complex tasks such as sentiment analysis, named entity recognition, question answering, and text summarization, which are crucial for a range of applications from automated customer service to content analysis.
-
+In our endeavor with this project, we aim to address the existing research gap by conducting an in-depth evaluation of ChatGPT's effectiveness in Persian Natural Language Processing tasks. Central to our investigation is the comparative analysis where ChatGPT's performance will be benchmarked against leading Persian NLP models. This comparative approach is designed to shed light on the unique strengths and potential limitations of ChatGPT when dealing with the intricacies of Persian language processing.
 
 <img width="1440" alt="Screenshot 1402-11-12 at 12 11 50 at night" src="https://github.com/namazifard/GPTPerEval/assets/107290809/e2c6253b-a14b-47a4-b437-3c7550734b15">
-
-
-In our endeavor with this project, we aim to address the existing research gap by conducting an in-depth evaluation of ChatGPT's effectiveness in Persian Natural Language Processing tasks. Central to our investigation is the comparative analysis where ChatGPT's performance will be benchmarked against leading Persian NLP models. This comparative approach is designed to shed light on the unique strengths and potential limitations of ChatGPT when dealing with the intricacies of Persian language processing.
 
 Key to our study is assessing the quality of language generation by ChatGPT in Persian. We aim to examine the fluency, coherence, and cultural appropriateness of the generated text, especially its adaptability to syntactic structures, and contextual nuances. This aspect is crucial in understanding how ChatGPT, trained predominantly on English datasets, manages the transition to handling Persian with its distinct linguistic characteristics. Furthermore, a detailed error analysis will be conducted, which focuses on understanding the nature of mistakes, whether they are syntactic errors, cultural misunderstandings, or issues related to language nuances.
 
